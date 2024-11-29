@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {}
+    "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\apicatalogo\\APICatalogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj": {
+    "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\apicatalogo\\APICatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+        "projectUniqueName": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\apicatalogo\\APICatalogo.csproj",
         "projectName": "APICatalogo",
-        "projectPath": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+        "projectPath": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\apicatalogo\\APICatalogo.csproj",
         "packagesPath": "C:\\Users\\Darkzera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\obj\\",
+        "outputPath": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\apicatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Darkzera\\AppData\\Roaming\\NuGet\\NuGet.Config",
