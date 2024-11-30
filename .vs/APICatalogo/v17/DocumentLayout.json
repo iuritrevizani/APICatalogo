@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|c:\\users\\darkzera\\source\\repos\\apicatalogo\\apicatalogo\\migrations\\20241128224635_migracaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\migrations\\20241128224635_migracaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|c:\\users\\darkzera\\source\\repos\\apicatalogo\\apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|c:\\users\\darkzera\\source\\repos\\apicatalogo\\apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|c:\\users\\darkzera\\source\\repos\\apicatalogo\\apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|c:\\users\\darkzera\\source\\repos\\apicatalogo\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|c:\\users\\darkzera\\source\\repos\\apicatalogo\\apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|c:\\users\\darkzera\\source\\repos\\apicatalogo\\apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62406B58-BF26-4AC9-A92E-166E05665328}|APICatalogo\\APICatalogo.csproj|c:\\users\\darkzera\\source\\repos\\apicatalogo\\apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,80 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241128224635_MigracaoInicial.cs",
-              "DocumentMoniker": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Migrations\\20241128224635_MigracaoInicial.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Migrations\\20241128224635_MigracaoInicial.cs",
-              "ToolTip": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Migrations\\20241128224635_MigracaoInicial.cs",
-              "RelativeToolTip": "APICatalogo\\Migrations\\20241128224635_MigracaoInicial.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "APICatalogo\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T22:47:05.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\appsettings.json",
-              "RelativeDocumentMoniker": "APICatalogo\\appsettings.json",
-              "ToolTip": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\appsettings.json",
-              "RelativeToolTip": "APICatalogo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-28T22:44:48.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "APICatalogo\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T22:44:32.152Z",
+              "WhenOpened": "2024-11-30T19:25:01.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Program.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
+              "ToolTip": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Program.cs",
+              "RelativeToolTip": "APICatalogo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:11:36.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Models\\Categoria.cs",
               "ToolTip": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Models\\Categoria.cs",
               "RelativeToolTip": "APICatalogo\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T22:36:41.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Models\\Produto.cs",
               "ToolTip": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Models\\Produto.cs",
               "RelativeToolTip": "APICatalogo\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T22:36:31.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Program.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
-              "ToolTip": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Program.cs",
-              "RelativeToolTip": "APICatalogo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T09:48:28.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T22:36:31.207Z"
             }
           ]
         }
