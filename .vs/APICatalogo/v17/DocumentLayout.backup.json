@@ -34,9 +34,9 @@
               "Title": "ProdutosController.cs",
               "DocumentMoniker": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Controllers\\ProdutosController.cs",
               "RelativeDocumentMoniker": "APICatalogo\\Controllers\\ProdutosController.cs",
-              "ToolTip": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Controllers\\ProdutosController.cs*",
-              "RelativeToolTip": "APICatalogo\\Controllers\\ProdutosController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "APICatalogo\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T19:25:01.773Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
               "ToolTip": "C:\\Users\\Darkzera\\source\\repos\\APICatalogo\\APICatalogo\\Program.cs",
               "RelativeToolTip": "APICatalogo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T19:11:36.316Z",
               "EditorCaption": ""
@@ -64,8 +64,7 @@
               "RelativeToolTip": "APICatalogo\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T22:36:41.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T22:36:41.436Z"
             },
             {
               "$type": "Document",
