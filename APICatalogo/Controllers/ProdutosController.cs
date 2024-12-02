@@ -1,16 +1,17 @@
 ﻿using APICatalogo.Context;
 using APICatalogo.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace APICatalogo.Controllers
 {
     [Route("[controller]")]
     [ApiController]
     public class ProdutosController : ControllerBase
-        {
-            private readonly AppDbContext _context;
-        
-            public ProdutosController(AppDbContext context)
+    {
+        private readonly AppDbContext _context;
+
+        public ProdutosController(AppDbContext context)
         {
             _context = context;
         }
@@ -21,12 +22,13 @@ namespace APICatalogo.Controllers
             var produtos = _context.Produtos.ToList();
             if (produtos is null)
             {
-            return NotFound("Produtos não encontrados...");
+                return NotFound("Produtos não encontrados...");
             }
             return produtos;
         }
-        [HttpGet("{id:int}", Name ="ObterProduto")]
-        public ActionResult <Produto> Get(int id)
+
+        [HttpGet("{id:int}", Name = "ObterProduto")]
+        public ActionResult<Produto> Get(int id)
         {
             var produto = _context.Produtos.FirstOrDefault(p => p.ProdutoId == id);
             if (produto is null)
@@ -35,6 +37,7 @@ namespace APICatalogo.Controllers
             }
             return produto;
         }
+
         [HttpPost]
         public ActionResult Post(Produto produto)
         {
@@ -48,11 +51,17 @@ namespace APICatalogo.Controllers
             return new CreatedAtRouteResult("ObterProduto", new { id = produto.ProdutoId }, produto);
         }
 
+        [HttpPut("{id:int}")]
+        public ActionResult Put(int id, Produto produto)
+        {
+            if (id != produto.ProdutoId)
+            {
+                return BadRequest();
+            }
+            _context.Entry(produto).State = EntityState.Modified;
+            _context.SaveChanges();
 
-
-
-
-
-
+            return Ok(produto);
+        }
     }
 }
