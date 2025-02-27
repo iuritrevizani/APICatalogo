@@ -103,3 +103,6 @@ C:\Users\Darkzera\source\repos\APICatalogo\APICatalogo\bin\Debug\net8.0\tr\Micro
 C:\Users\Darkzera\source\repos\APICatalogo\APICatalogo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Darkzera\source\repos\APICatalogo\APICatalogo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Darkzera\source\repos\APICatalogo\APICatalogo\obj\Debug\net8.0\APICatalogo.sourcelink.json
+C:\Users\Darkzera\source\repos\APICatalogo\APICatalogo\bin\Debug\net8.0\APICatalogo.staticwebassets.endpoints.json
+C:\Users\Darkzera\source\repos\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Darkzera\source\repos\APICatalogo\APICatalogo\obj\Debug\net8.0\staticwebassets\msbuild.APICatalogo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
